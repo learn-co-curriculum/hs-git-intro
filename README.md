@@ -1,3 +1,8 @@
 ## Git and Github Intro
 
-This unit will cover the purpose of git and github and teach you how to track changes to your code locally on your computer as well as pushing to a remote repository on Github. We'll also cover best practices for collaborating with other developers on Github through forking, cloning and pull requests.
+This unit will cover:
+
+* what git and github are and what they do
+* how to track changes to your code locally on your computer using git
+* how to store and share code on github
+* best practices for collaborating with other developers on github through forking, cloning and pull requests
