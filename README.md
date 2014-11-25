@@ -7,5 +7,5 @@ Whenever you get your program working properly, it's important to save that vers
 Here is what we will be covering in this lesson:
 * **what git and GitHub are** and what they do
 * how to **track changes to your code locally**, on your computer, using git
-* how to **store and share code on [github.com](github.com)**
+* how to **store and share code on [github.com](http://www.github.com)**
 * best practices for collaborating with other developers on GitHub through **forking, cloning, and pull requests**
