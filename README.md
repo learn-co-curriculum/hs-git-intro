@@ -2,7 +2,7 @@
 tags: intro, git, github, kids
 type: intro
 ---
-### Unit Goals
+### Students Will Be Able To...
 * Explain **what Git and GitHub are** and what they do
 * Use GitHub to **fork a repository, then clone it** locally (on your own computer)
 
