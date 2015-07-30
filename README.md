@@ -1,7 +1,4 @@
----
-tags: intro, git, github, kids
-type: intro
----
+
 
 # Git Intro
 
